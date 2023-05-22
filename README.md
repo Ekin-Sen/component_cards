@@ -1,2 +1,2 @@
-# component_cards
+# component cards
 Component cards designed with CSS
