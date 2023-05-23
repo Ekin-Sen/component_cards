@@ -14,5 +14,18 @@ body {
     overflow: hidden;    
 }
 
+.card_image {
+    overflow: hidden;
+}
+
+.card_image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 1.5s;
+}
+
+.container:hover .card_image img {
+    transform: scale(1.2);
 
 
