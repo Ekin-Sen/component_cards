@@ -27,6 +27,7 @@ body {
 
 .container:hover .card_image img {
     transform: scale(1.2);
+}
 
 .card {
     margin: 30px;
@@ -35,4 +36,18 @@ body {
 .card_header > h2 {
     margin-bottom: -1px;
     font-size: 2rem;
+}
+
+.card_footer > button {
+    margin-top: 20px;
+}
+
+button {
+    padding: 7px 15px;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #9990BC;
+    text-align: center;
+    font-weight: bold;
 }
