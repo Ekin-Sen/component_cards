@@ -5,3 +5,28 @@ body {
     align-items: center;
     height: 100vh;
 }
+
+.container {
+    width: 350px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    box-shadow: 0 30px 45px rgba(255, 255, 255, 0.1);
+    overflow: hidden;    
+}
+
+.card_image {
+    text-align: center;
+    margin-top: 5%;  
+}
+
+img {
+    border-radius: 10px;
+}
+
+.card {
+    margin: 30px;
+}
+
+.card_header > h2 {
+    font-size: 2rem;
+}
