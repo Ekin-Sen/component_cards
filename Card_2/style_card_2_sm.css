@@ -28,3 +28,12 @@ img {
     height: 80px;
     border-radius: 50%;
 }
+
+.card_header_sm > h2 {
+    font-size: 1.3rem;
+}
+
+.card_text_sm > p {
+    margin-top: -10px;
+    font-size: 0.8rem;
+}
