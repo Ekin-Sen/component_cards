@@ -6,4 +6,25 @@ body {
     height: 100vh;
 }
 
+.container {
+    width: 350px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    box-shadow: 0 30px 45px rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+}
 
+.card_sm {
+    display: flex; 
+}
+
+.card_image_sm {
+    text-align: start;
+    margin: 3%;  
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
