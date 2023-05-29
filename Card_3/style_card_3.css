@@ -25,3 +25,18 @@ body {
 .icon {
     padding: 10px;
 }
+
+.left {
+    background-color: #E5792F;
+    max-width: 200px;
+}
+
+.middle {
+    background-color: #098684;
+    max-width: 200px;
+}
+
+.right {
+    background-color: #005E66;
+    max-width: 200px;
+}
