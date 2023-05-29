@@ -8,3 +8,20 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.container {
+    width: 600px;
+    min-height: 350px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    box-shadow: 0 30px 45px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;  
+}
+
+.card {
+    padding: 30px;
+}
+
+.icon {
+    padding: 10px;
+}
