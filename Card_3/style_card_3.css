@@ -40,3 +40,26 @@ body {
     background-color: #005E66;
     max-width: 200px;
 }
+
+button {
+    margin-top: 40px;
+    background-color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.left > button {
+    color: #E5792F;
+    border: 1px solid #E5792F;
+}
+
+.middle > button {
+    color: #098684;
+    border: 1px solid #098684;
+}
+
+.right > button {
+    color: #005E66;
+    border: 1px solid #005E66;
+}
