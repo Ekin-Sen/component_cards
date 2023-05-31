@@ -1,0 +1,10 @@
+body {
+    background: rgb(223,153,13);
+    background: radial-gradient(circle, rgba(223,153,13,1) 0%, rgba(63,51,115,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
