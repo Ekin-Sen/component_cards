@@ -16,3 +16,10 @@ body {
     box-shadow: 0 30px 45px rgba(255, 255, 255, 0.1);
     overflow: hidden; 
 }
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: -25px;
+    width: 85%;
+  }
