@@ -50,3 +50,17 @@ button.numbers {
     text-align: center;
     font-weight: bold; 
 }
+
+button.main {
+    width: 50%;
+    border: 1px solid rgba(223,153,13,1);
+    border-radius: 25px;
+    background-color: transparent;
+    color: rgb(228, 227, 229);
+    margin-top: 15px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    font-weight: bold; 
+}
