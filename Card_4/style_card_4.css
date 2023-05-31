@@ -23,3 +23,11 @@ img {
     margin-top: -25px;
     width: 85%;
   }
+
+.info {
+    color: rgb(228, 227, 229);
+    margin-top: -25px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
