@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: linear-gradient(
+        300deg,
+        #5e72eb,
+        #ff9190,
+        #fdc094
+        90%
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
