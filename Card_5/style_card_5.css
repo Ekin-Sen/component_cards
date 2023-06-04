@@ -40,3 +40,9 @@ h2, span {
 .info {
     font-size: 1.1rem;
 }
+
+.radio_btn {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
