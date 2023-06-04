@@ -46,3 +46,15 @@ h2, span {
     margin-top: 10px;
     margin-bottom: 20px;
 }
+
+.email {
+    width: 75%;
+    height: 30px;
+    border: 0;
+    border-radius: 20px;
+    font-size: 15px;
+    padding-inline-start: 10px;
+    color: #5e72eb;
+    font: bolder;
+    caret-color: #fdc094;
+}
