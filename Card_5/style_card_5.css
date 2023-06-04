@@ -58,3 +58,17 @@ h2, span {
     font: bolder;
     caret-color: #fdc094;
 }
+
+input[type="radio"] {
+    appearance: none;
+    border-radius: 30%;
+    border: 2px solid #fdc094;
+    transition: all  0.2s linear;
+    background-color: #fff;
+    margin: 0;
+    margin-right: 5px;
+    font: inherit;
+    width: 1.15em;
+    height: 1.15em;
+    cursor: pointer;
+  }
