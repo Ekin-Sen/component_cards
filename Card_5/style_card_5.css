@@ -81,3 +81,21 @@ label {
     margin-right: 10px;
     color: #f5f5f5;
 }
+
+.buttons {
+    margin: 10px 0;
+}
+
+button {
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    color: #ff9190;
+    font-family: inherit;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    background-color: #ffffff;
+}
