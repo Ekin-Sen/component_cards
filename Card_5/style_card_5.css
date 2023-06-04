@@ -99,3 +99,31 @@ button {
     z-index: 1;
     background-color: #ffffff;
 }
+
+button::before {
+    content: '';
+    width: 0;
+    height: 30px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(
+        to left,
+        #5e72eb,
+        #ff9190,
+        #fdc094
+    );
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+
+button:hover::before {
+    width: 120px;
+}
+
+button:hover {
+    color: #ffffff;
+    transition: 1.5s ease;
+}
