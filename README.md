@@ -14,15 +14,15 @@ Component cards designed with CSS
 # Card 3
 * a triple component card consisting of icons, information and buttons
 * a card suitable for a rent-a-car company's website.
-* buttons on the cards have hover effect (border, background color and text color)
+* buttons on the cards have a hover effect (border, background color and text color)
 
 # Card 4
 * a component card with image, information and buttons
-* a card design for product page
+* a card design for a product page
 
 # Card 5
 * a subscribe card with radio buttons, mail area and submit-reset buttons
-* Submit and reset buttons have hover effect
+* Submit and reset buttons have a hover effect
 
 
 
