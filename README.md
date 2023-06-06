@@ -19,3 +19,10 @@ Component cards designed with CSS
 # Card 4
 * a component card with image, information and buttons
 * a card design for product page
+
+# Card 5
+* a subscribe card with radio buttons, mail area and submit-reset buttons
+* Submit and reset buttons have hover effect
+
+
+
