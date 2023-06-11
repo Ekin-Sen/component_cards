@@ -44,3 +44,16 @@ img {
 p > :nth-child(1) {
     color: #808080;
 }
+
+.contact {
+    margin-top: 10px;
+}
+
+.contact_icon {
+    display: flex;
+    margin-top: 7.5px;
+}
+
+.icon {
+    margin-right: 15px;
+}
