@@ -28,3 +28,4 @@ Component cards designed with CSS
 * a component card with image, information and buttons
 * a card design for a info page
 
+# Card 7
