@@ -15,3 +15,19 @@ body {
     justify-content: space-evenly;
     color: #FFFFFF;  
 }
+
+.card_left {
+    width: 150px;
+    border-radius: 15px;
+    background: rgb(207,139,148);
+    background: radial-gradient(circle, rgba(207,139,148,1) 49%, rgba(217,178,182,1) 91%);
+    overflow: hidden;
+}
+
+.card_right {
+    width: 150px;
+    border-radius: 15px;
+    background: rgb(204,43,94);
+    background: radial-gradient(circle, rgba(204,43,94,1) 51%, rgba(193,147,208,1) 97%);
+    overflow: hidden;
+}
