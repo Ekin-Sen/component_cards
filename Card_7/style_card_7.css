@@ -56,3 +56,9 @@ body {
     font-weight: bolder;
     margin-bottom: -5px;
 }
+
+.bar {
+    margin: auto;
+    margin-bottom: 10px;
+    width: 100px;
+}
