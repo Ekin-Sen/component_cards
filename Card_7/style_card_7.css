@@ -36,3 +36,23 @@ body {
     text-align: center;
     padding-top: 20px;
 }
+
+.number,.info {
+    text-align: center;
+}
+
+.n1 {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: -15px;
+}
+
+.i2 {
+    margin-bottom: -20px;
+}
+
+.n2 {
+    font-weight: bolder;
+    margin-bottom: -5px;
+}
